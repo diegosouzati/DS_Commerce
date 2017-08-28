@@ -15,12 +15,12 @@ namespace DS_Commerce.Controllers
 
         public IActionResult ContasAReceber()
         {
-            return View("Index");
+            return View();
         }
 
         public IActionResult ContasAPagar()
         {
-            return View("Index");
+            return View();
         }
     }
 }

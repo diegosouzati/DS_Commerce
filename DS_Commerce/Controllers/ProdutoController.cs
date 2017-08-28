@@ -15,7 +15,7 @@ namespace DS_Commerce.Controllers
 
         public IActionResult Estoque()
         {
-            return View("Index");
+            return View();
         }
     }
 }
