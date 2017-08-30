@@ -198,6 +198,7 @@
     @Html.Partial("_menu_lateral") <!--Renderizando uma View Parcial do menu da lateral do sistema-->
 
     @RenderBody(); <!--Rederizador de conteúdo-->
+
     <!-- google web fonts -->
     <script>
         WebFontConfig = {
@@ -218,6 +219,7 @@
             s.parentNode.insertBefore(wf, s);
         })();
     </script>
+
     <!-- common functions -->
     <script src="/assets/js/common.min.js"></script>
     <!-- uikit functions -->
@@ -225,6 +227,29 @@
     <!-- altair common functions/helpers -->
     <script src="/assets/js/altair_admin_common.min.js"></script>
 
+    @* PÁGINA PRODUTO - EDITAR *@
+    <!-- page specific plugins -->
+    <!-- handlebars.js -->
+    <script src="bower_components/handlebars/handlebars.min.js"></script>
+    <script src="assets/js/custom/handlebars_helpers.min.js"></script>
+    <!--  product edit functions -->
+    <script src="assets/js/pages/ecommerce_product_edit.min.js"></script>
+    @* FIM PÁGINA PRODUTO - EDITAR *@
+    
+    @* PÁGINA LISTA DE CLIENTE *@
+    <!-- page specific plugins -->
+    <!--  contact list functions -->
+    <script src="assets/js/pages/page_contact_list.min.js"></script>
+    @* FIM PÁGINA LISTA  DE CLIENTE *@
+
+    @*PÁGINA EDITAR CLIENTE*@
+    <!-- page specific plugins -->
+    <!-- file input -->
+    <script src="assets/js/custom/uikit_fileinput.min.js"></script>
+    <!--  user edit functions -->
+    <script src="assets/js/pages/page_user_edit.min.js"></script>
+    @*FIM PÁGINA EDITAR CLIENTE*@
+    
     <script>
         $(function () {
             if (isHighDensity()) {
@@ -321,6 +346,7 @@
             </p>
         </div>
     </div>
+
     <script>
         $(function () {
             var $switcher = $('#style_switcher'),
@@ -332,8 +358,7 @@
                 $accordion_mode_toggle = $('#accordion_mode_main_menu'),
                 $html = $('html'),
                 $body = $('body');
-
-
+            
             $switcher_toggle.click(function (e) {
                 e.preventDefault();
                 $switcher.toggleClass('switcher_active');
@@ -454,8 +479,6 @@
                 .on('ifUnchecked', function () {
                     $sidebar_main.removeClass('accordion_mode');
                 });
-
-
         });
     </script>
 </body>
