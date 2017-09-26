@@ -1,0 +1,81 @@
+﻿.icone-padrao{
+    height: 32px;
+    width: 32px;
+    display: inline-block;
+} /*tamanho do icone do menu do topo*/
+
+
+ /*tamanho do icone do menu lateral*/
+.icone-pequeno{
+    width: 20px;
+    height: 20px;
+}
+
+/* -- Inicio formulário topo -- */
+.icone-clientes-topo {
+    background: url('/images/Icones/Menu/1f77b4/Business Contact.png');
+    background-size: 100%;
+}
+
+.icone-compras-topo {
+    background: url('/images/Icones/Menu/2ca02c/Buy.png');
+    background-size: 100%;
+}
+
+.icone-produtos-topo {
+    background: url('/images/Icones/Menu/333333/Product.png');
+    background-size: 100%;
+}
+
+.icone-vendas-topo {
+    background: url('/images/Icones/Menu/9467bd/Cash Register.png');
+    background-size: 100%;
+}
+
+.icone-financeiro-topo {
+    background: url('/images/Icones/Menu/d62728/Receive Cash.png');
+    background-size: 100%;
+}
+
+.icone-relatorios-topo{
+    background: url('/images/Icones/Menu/f4c63d/Bar Chart.png');
+    background-size: 100%;
+}
+/* -- Fim formulário topo -- */
+
+
+/* -- Inicio formulário lateral -- */
+.icone-clientes-lateral {
+    background: url('/images/Icones/Menu/333333/Business Contact.png');
+    background-size: 100%;
+}
+
+.icone-compras-lateral {
+    background: url('/images/Icones/Menu/333333/Buy.png');
+    background-size: 100%;
+}
+
+.icone-produtos-lateral {
+    background: url('/images/Icones/Menu/333333/Product.png');
+    background-size: 100%;
+}
+
+.icone-vendas-lateral {
+    background: url('/images/Icones/Menu/333333/Cash Register.png');
+    background-size: 100%;
+}
+
+.icone-financeiro-lateral {
+    background: url('/images/Icones/Menu/333333/Receive Cash.png');
+    background-size: 100%;
+}
+
+.icone-relatorios-lateral {
+    background: url('/images/Icones/Menu/333333/Bar Chart.png');
+    background-size: 100%;
+}
+/* -- Fim formulário lateral -- */
+
+a:hover{
+    background: #e1e1e1;
+}

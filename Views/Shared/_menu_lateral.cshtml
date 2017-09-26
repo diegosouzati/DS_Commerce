@@ -1,0 +1,98 @@
+﻿<!-- Ínicio do Menu Lateral -->
+<aside id="sidebar_main">
+    <div class="sidebar_main_header">
+        <div class="sidebar_logo">
+            <a href="index.html" class="sSidebar_hide sidebar_logo_large">
+                <img class="logo_regular" src="/assets/img/logo_main.png" alt="" height="15" width="71" />
+                <img class="logo_light" src="/assets/img/logo_main_white.png" alt="" height="15" width="71" />
+            </a>
+            <a href="index.html" class="sSidebar_show sidebar_logo_small">
+                <img class="logo_regular" src="/assets/img/logo_main_small.png" alt="" height="32" width="32" />
+                <img class="logo_light" src="/assets/img/logo_main_small_light.png" alt="" height="32" width="32" />
+            </a>
+        </div>
+        <div class="sidebar_actions">
+            <select id="lang_switcher" name="lang_switcher">
+                <option value="gb" selected>English</option>
+            </select>
+        </div>
+    </div>
+        <div class="menu_section">
+        <ul>
+            <li title="Painel Principal">
+                <a asp-controller="PainelPrincipal" asp-action="Index">
+                    <span class="menu_icon"><i class="material-icons">&#xE871;</i></span>
+                    <span class="menu_title">Painel Principal</span>
+                </a>
+            </li>
+            <li title="Clientes">
+                <a asp-controller="Cliente"  asp-action="Index">
+                    <span class="menu_icon"><i class=" icone-padrao icone-pequeno icone-clientes-lateral">;</i></span>
+                    <span class="menu_title">Clientes</span>
+                </a>
+            </li>
+            <li title="Compras">
+                <a asp-controller="Compra" asp-action="Index">
+                    <span class="menu_icon"><i class="icone-padrao icone-pequeno icone-compras-lateral">;</i></span>
+                    <span class="menu_title">Compras</span>
+                </a>
+                <ul>
+                    <li><a asp-controller="Compra" asp-action="Index">Pedidos de Compras</a></li>
+                    <li class="menu_subtitle">CADASTROS</li>
+                    <li><a asp-controller="CategoriaDaCompra" asp-action="Index">Categoria da Compra</a></li>
+                </ul>
+            </li>
+            <li title="Produtos">
+                <a asp-controller="Produto" asp-action="Index">
+                    <span class="menu_icon"><i class="icone-padrao icone-pequeno icone-produtos-lateral">;</i></span>
+                    <span class="menu_title">Produtos</span>
+                </a>
+                <ul>
+                    <li><a asp-controller="Produto" asp-action="Estoque">Estoques</a></li>
+                    <li class="menu_subtitle">CADASTROS</li>
+                    <li><a asp-controller="Fornecedor" asp-action="Index">Fornecedores</a></li>
+                    <li><a asp-controller="CategoriaDoProduto" asp-action="Index">Categoria do Produto</a></li>
+
+                </ul>
+            </li>
+            <li title="Vendas">
+                <a asp-controller="Venda" asp-action="Index">
+                    <span class="menu_icon"><i class="icone-padrao icone-pequeno icone-vendas-lateral">;</i></span>
+                    <span class="menu_title">Vendas</span>
+                </a>
+                <ul>
+                    <li><a asp-controller="Venda" asp-action="Index">Pedidos de Venda</a></li>
+                    <li><a asp-controller="OrdemDeServico" asp-action="Index">Ordem de Serviço</a></li>
+                    <li><a asp-controller="Venda" asp-action="Orcamento">Orçamentos</a></li>
+                    <li><a asp-controller="Contrato" asp-action="Index">Contratos</a></li>
+                    <li class="menu_subtitle">CADASTROS</li>
+                    <li><a asp-controller="Transportadora" asp-action="Index">Transportadoras</a></li>
+                    <li><a asp-controller="TipoDeServico" asp-action="Index">Tipo de Serviços</a></li>
+                </ul>
+            </li>
+            <li title="Financeiro">
+                <a asp-controller="Financeiro" asp-action="Index">
+                    <span class="menu_icon"><i class="icone-padrao icone-pequeno icone-financeiro-lateral">;</i></span>
+                    <span class="menu_title">Financeiro</span>
+                </a>
+                <ul>
+                    <li><a asp-controller="Financeiro" asp-action="ContasAPagar">Contas a Pagar </a></li>
+                    <li><a asp-controller="Financeiro" asp-action="ContasAReceber">Contas a Receber </a></li>
+                </ul>
+            </li>
+            <li title="Relatórios">
+                <a asp-controller="Relatorio" asp-action="Index">
+                    <span class="menu_icon"><i class="icone-padrao icone-pequeno icone-relatorios-lateral">;</i></span>
+                    <span class="menu_title">Relatórios</span>
+                </a>
+                <ul>
+                    <li><a asp-controller="Relatorio" asp-action="VendasTotal">Vendas Total </a></li>
+                    <li><a asp-controller="Relatorio" asp-action="VendasPorCliente">Vendas por Cliente </a></li>
+                    <li><a asp-controller="Relatorio" asp-action="VendasPorVendedor">Vendas por Vendedor </a></li>
+                    <li><a asp-controller="Relatorio" asp-action="ItensMaisVendidos">Itens mais Vendidos  </a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</aside>
+<!-- Final do Menu Lateral -->

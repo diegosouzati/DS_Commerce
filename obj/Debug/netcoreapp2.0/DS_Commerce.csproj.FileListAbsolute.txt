@@ -1,0 +1,30 @@
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.deps.json
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.runtimeconfig.json
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.runtimeconfig.dev.json
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.dll
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.pdb
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Enumerador.dll
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Model.dll
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Model.pdb
+F:\Projetos\DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Enumerador.pdb
+F:\Projetos\DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.csprojResolveAssemblyReference.cache
+F:\Projetos\DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.csproj.CoreCompileInputs.cache
+F:\Projetos\DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.AssemblyInfoInputs.cache
+F:\Projetos\DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.AssemblyInfo.cs
+F:\Projetos\DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.dll
+F:\Projetos\DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.pdb
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.deps.json
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.runtimeconfig.json
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.runtimeconfig.dev.json
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.dll
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.pdb
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Enumerador.dll
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Model.dll
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Model.pdb
+E:\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Enumerador.pdb
+E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.csprojResolveAssemblyReference.cache
+E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.csproj.CoreCompileInputs.cache
+E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.AssemblyInfoInputs.cache
+E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.AssemblyInfo.cs
+E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.dll
+E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.pdb
