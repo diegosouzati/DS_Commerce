@@ -9901,11 +9901,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\C# Project - DS_Commerce\\DS_Commerce\\DS_Commerce.csproj",
+      "projectUniqueName": "E:\\Meus Projetos\\Meus Projetos - C#\\C# Project - DS_Commerce\\DS_Commerce\\DS_Commerce.csproj",
       "projectName": "DS_Commerce",
-      "projectPath": "E:\\C# Project - DS_Commerce\\DS_Commerce\\DS_Commerce.csproj",
+      "projectPath": "E:\\Meus Projetos\\Meus Projetos - C#\\C# Project - DS_Commerce\\DS_Commerce\\DS_Commerce.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Project - DS_Commerce\\DS_Commerce\\obj\\",
+      "outputPath": "E:\\Meus Projetos\\Meus Projetos - C#\\C# Project - DS_Commerce\\DS_Commerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9924,11 +9924,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\C# Project - DS_Commerce\\DS_Commerce.Numerador\\DS_Commerce.Enumerador.csproj": {
-              "projectPath": "E:\\C# Project - DS_Commerce\\DS_Commerce.Numerador\\DS_Commerce.Enumerador.csproj"
+            "E:\\Meus Projetos\\Meus Projetos - C#\\C# Project - DS_Commerce\\DS_Commerce.Numerador\\DS_Commerce.Enumerador.csproj": {
+              "projectPath": "E:\\Meus Projetos\\Meus Projetos - C#\\C# Project - DS_Commerce\\DS_Commerce.Numerador\\DS_Commerce.Enumerador.csproj"
             },
-            "E:\\C# Project - DS_Commerce\\DS_Commerce.Model\\DS_Commerce.Model.csproj": {
-              "projectPath": "E:\\C# Project - DS_Commerce\\DS_Commerce.Model\\DS_Commerce.Model.csproj"
+            "E:\\Meus Projetos\\Meus Projetos - C#\\C# Project - DS_Commerce\\DS_Commerce.Model\\DS_Commerce.Model.csproj": {
+              "projectPath": "E:\\Meus Projetos\\Meus Projetos - C#\\C# Project - DS_Commerce\\DS_Commerce.Model\\DS_Commerce.Model.csproj"
             }
           }
         }

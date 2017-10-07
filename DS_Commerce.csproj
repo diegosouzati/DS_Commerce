@@ -25,7 +25,6 @@
   <ItemGroup>
     <Folder Include="Views\CategoriaDaCompra\" />
     <Folder Include="Views\CategoriaDoProduto\" />
-    <Folder Include="Views\Cliente\" />
     <Folder Include="Views\Compra\" />
     <Folder Include="Views\Contrato\" />
     <Folder Include="Views\Financeiro\" />
@@ -34,7 +33,6 @@
     <Folder Include="Views\Transportadora\" />
     <Folder Include="Views\TipoDeServico\" />
     <Folder Include="Views\Relatorio\" />
-    <Folder Include="Views\Produto\" />
     <Folder Include="Views\PainelPrincipal\" />
     <Folder Include="Views\OrdemDeServico\" />
   </ItemGroup>

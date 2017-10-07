@@ -227,21 +227,8 @@
     <!-- altair common functions/helpers -->
     <script src="/assets/js/altair_admin_common.min.js"></script>
 
-    @* PÁGINA PRODUTO - EDITAR *@
-    <script src="/bower_components/handlebars/handlebars.min.js"></script>
-    <script src="/assets/js/custom/handlebars_helpers.min.js"></script>
-    <script src="/assets/js/pages/ecommerce_product_edit.min.js"></script>
-    @* FIM PÁGINA PRODUTO - EDITAR *@
-    
-    @* PÁGINA LISTA DE CLIENTE *@
-    <script src="/assets/js/pages/page_contact_list.min.js"></script>
-    @* FIM PÁGINA LISTA  DE CLIENTE *@
-
-    @*PÁGINA EDITAR CLIENTE*@
-    <script src="/assets/js/custom/uikit_fileinput.min.js"></script>
-    <script src="/assets/js/pages/page_user_edit.min.js"></script>
-    @*FIM PÁGINA EDITAR CLIENTE*@
-    
+ @Html.Partial("_ScriptsDaPagina")
+     
     <script>
         $(function () {
             if (isHighDensity()) {

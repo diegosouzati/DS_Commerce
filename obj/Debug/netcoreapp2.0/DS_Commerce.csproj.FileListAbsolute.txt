@@ -28,3 +28,18 @@ E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.Asse
 E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.AssemblyInfo.cs
 E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.dll
 E:\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.pdb
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.deps.json
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.runtimeconfig.json
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.runtimeconfig.dev.json
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.dll
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.pdb
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Enumerador.dll
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Model.dll
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Model.pdb
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\bin\Debug\netcoreapp2.0\DS_Commerce.Enumerador.pdb
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.csprojResolveAssemblyReference.cache
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.AssemblyInfoInputs.cache
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.AssemblyInfo.cs
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.dll
+E:\Meus Projetos\Meus Projetos - C#\C# Project - DS_Commerce\DS_Commerce\obj\Debug\netcoreapp2.0\DS_Commerce.pdb

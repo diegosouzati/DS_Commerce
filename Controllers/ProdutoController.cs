@@ -15,7 +15,7 @@ namespace DS_Commerce.Controllers
 
         public IActionResult Estoque()
         {
-            return View();
+            return RedirectToAction(nameof(Index));
         }
 
         public IActionResult Detalhes()
